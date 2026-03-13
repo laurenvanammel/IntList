@@ -6,7 +6,8 @@ class IntListtest {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		IntList([2 3 5 8 10]);
+		assert()
 	}
 
 }
